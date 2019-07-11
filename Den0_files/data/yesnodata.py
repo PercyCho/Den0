@@ -1,0 +1,2 @@
+yesdata = ["yes", "yep", "y", "1", "not no", "not not not no", "not not not not not no", "yes'm", "yah", "ye", "yee", "yaas", "yass", "sey", "true"]
+nodata = ["no", "nope", "na", "nah", "noo", "nooo", "noooo", "n", "0", "nada", "on", "false", "not yes", "not not not yes", "not not not not not yes"]
